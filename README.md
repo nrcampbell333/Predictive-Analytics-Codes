@@ -1,1 +1,2 @@
 The Spotify Kaggle competition involves conducting data analysis to generate the best prediction score for rating based on their auditory features. The given dataset contained information on popular songs and their associated features. The goal is to create a model that achieves the lowest possible root mean squared error score, which shall lead to a better accuracy of our predictions.
+This was uploaded as my knitted html file, for better viewing, download as raw data. 
